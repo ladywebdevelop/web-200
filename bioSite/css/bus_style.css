@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+div#Tommys > p {
+    font-family: 'Montserrat', 'Times New Roman', serif;
+}
+
+div#Galaxy {
+    border-top: dashed 1px red;
+}
+
+div#Galaxy > img {
+    padding-top: 50px;
+}
+
+div#Galaxy > ul > li {
+    font-family: 'Raleway', 'Times New Roman', sans-serif;
+    list-style-image: none;
+    list-style-type: none;
+    font-weight: bold;
+}

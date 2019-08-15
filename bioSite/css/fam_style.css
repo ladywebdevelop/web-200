@@ -1,0 +1,38 @@
+html {
+    background-color: #F3E2A9;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+div.kids {
+    text-align: center;
+}
+
+nav > ul > a > li {
+    display: inline;
+    background-color: whitesmoke;
+    text-align: center;
+    text-decoration: none;
+    list-style-type: none;
+    list-style-image: none;
+    padding-right: 50px;
+    padding-left: 50px;
+    border: solid black 1px;
+}
+
+nav > ul > a > li:hover {
+    background-color: red;
+    color: white;
+}
+
+footer > address {
+    text-align: center;
+    border-top: solid red 2px;
+}
